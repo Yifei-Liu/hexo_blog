@@ -17,9 +17,9 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/09/26/hello-world/"/>
-    <id>http://yoursite.com/2016/09/26/hello-world/</id>
-    <published>2016-09-26T15:43:23.483Z</published>
+    <link href="http://yoursite.com/2016/09/27/hello-world/"/>
+    <id>http://yoursite.com/2016/09/27/hello-world/</id>
+    <published>2016-09-26T16:59:14.118Z</published>
     <updated>2016-09-24T16:04:49.000Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
