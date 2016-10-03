@@ -17,9 +17,9 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/10/01/hello-world/"/>
-    <id>http://yoursite.com/2016/10/01/hello-world/</id>
-    <published>2016-10-01T12:37:03.817Z</published>
+    <link href="http://yoursite.com/2016/10/03/hello-world/"/>
+    <id>http://yoursite.com/2016/10/03/hello-world/</id>
+    <published>2016-10-03T12:26:30.357Z</published>
     <updated>2016-09-24T16:04:49.000Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
@@ -47,16 +47,16 @@
     <link href="http://yoursite.com/2016/10/01/first-post/"/>
     <id>http://yoursite.com/2016/10/01/first-post/</id>
     <published>2016-10-01T12:15:17.000Z</published>
-    <updated>2016-10-01T12:25:05.000Z</updated>
+    <updated>2016-10-01T12:43:54.000Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="About-Me"><a href="#About-Me" class="headerlink" title="About Me"></a>About Me</h3><pre><code>Thanks for your visiting my homepage. My name is Yifei Liu(aka. Jacky Liu), master candidate at [Huazhong University of Science and Technology](http://www.hust.edu.cn/).
-��л�����ҵ���ҳ������������(Jacky Liu)�����пƼ���ѧ��˶ʿ�ڶ��о���
-</code></pre><h3 id="Why-I-create-this-webpage"><a href="#Why-I-create-this-webpage" class="headerlink" title="Why I create this webpage"></a>Why I create this webpage</h3><p>I major in Computer Science and I love it ,When I am a undergraduate, I already create my blog page in cnblogs and CSDN. Howerver ,Writing blogs on my personal is my aspiration, Now I know it’s so easy. right?</p>
+    <content type="html"><![CDATA[<h3 id="About-Me"><a href="#About-Me" class="headerlink" title="About Me"></a>About Me</h3><p>Thanks for your visiting my homepage. My name is Yifei Liu(aka. Jacky Liu), master candidate at <a href="http://www.hust.edu.cn/" target="_blank" rel="external">Huazhong University of Science and Technology</a>.</p>
+<p>我叫刘毅斐，华中科技大学硕士在读研究生。</p>
+<h3 id="Why-I-create-this-webpage"><a href="#Why-I-create-this-webpage" class="headerlink" title="Why I create this webpage"></a>Why I create this webpage</h3><p>I major in Computer Science and I love it ,When I am a undergraduate, I already create my blog page in cnblogs and CSDN. Howerver ,Writing blogs on my personal is my aspiration, Now I know it’s so easy. right?</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;About-Me&quot;&gt;&lt;a href=&quot;#About-Me&quot; class=&quot;headerlink&quot; title=&quot;About Me&quot;&gt;&lt;/a&gt;About Me&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;Thanks for your visiting my homepage. 
+      &lt;h3 id=&quot;About-Me&quot;&gt;&lt;a href=&quot;#About-Me&quot; class=&quot;headerlink&quot; title=&quot;About Me&quot;&gt;&lt;/a&gt;About Me&lt;/h3&gt;&lt;p&gt;Thanks for your visiting my homepage. My name 
     
     </summary>
     
