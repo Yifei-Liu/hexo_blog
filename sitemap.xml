@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yifeiliu.me/first-post/</loc>
+    
+    <lastmod>2017-03-20T13:13:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yifeiliu.me/new-article/</loc>
     
     <lastmod>2017-03-20T12:51:24.000Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>http://yifeiliu.me/categories/index.html</loc>
     
     <lastmod>2017-03-20T08:15:09.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yifeiliu.me/first-post/</loc>
-    
-    <lastmod>2016-10-01T12:43:54.000Z</lastmod>
     
   </url>
   
