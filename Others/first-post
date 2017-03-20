@@ -3,14 +3,24 @@
 <head>
   <meta charset="utf-8">
   
-  <title>Archives: 2016/10 | Yifei Liu&#39;s homepage</title>
+  <title>My first post | Yifei Liu&#39;s homepage</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta property="og:type" content="website">
-<meta property="og:title" content="Yifei Liu's homepage">
-<meta property="og:url" content="http://yifeiliu.me/archives/2016/10/index.html">
+  <meta name="description" content="About MeThanks for your visiting my homepage. My name is Yifei Liu(aka. Jacky Liu), master candidate at Huazhong University of Science and Technology.
+我叫刘毅斐，华中科技大学硕士在读研究生。
+Why I create this webpageI m">
+<meta property="og:type" content="article">
+<meta property="og:title" content="My first post">
+<meta property="og:url" content="http://yifeiliu.me/Others/first-post">
 <meta property="og:site_name" content="Yifei Liu's homepage">
+<meta property="og:description" content="About MeThanks for your visiting my homepage. My name is Yifei Liu(aka. Jacky Liu), master candidate at Huazhong University of Science and Technology.
+我叫刘毅斐，华中科技大学硕士在读研究生。
+Why I create this webpageI m">
+<meta property="og:updated_time" content="2016-10-01T12:43:54.000Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Yifei Liu's homepage">
+<meta name="twitter:title" content="My first post">
+<meta name="twitter:description" content="About MeThanks for your visiting my homepage. My name is Yifei Liu(aka. Jacky Liu), master candidate at Huazhong University of Science and Technology.
+我叫刘毅斐，华中科技大学硕士在读研究生。
+Why I create this webpageI m">
   
     <link rel="alternate" href="/atom.xml" title="Yifei Liu&#39;s homepage" type="application/atom+xml">
   
@@ -59,58 +69,62 @@
   </div>
 </header>
       <div class="outer">
-        <section id="main">
-  
-  
-    
-    
-      
-      
-      <section class="archives-wrap">
-        <div class="archive-year-wrap">
-          <a href="/archives/2016" class="archive-year">2016</a>
-        </div>
-        <div class="archives">
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/uncategorized/hello-world" class="archive-article-date">
-  <time datetime="2016-10-03T11:54:26.760Z" itemprop="datePublished">Oct 3</time>
+        <section id="main"><article id="post-first-post" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/Others/first-post" class="article-date">
+  <time datetime="2016-10-01T12:15:17.000Z" itemprop="datePublished">2016-10-01</time>
 </a>
-      
+    
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/Others/">Others</a>
+  </div>
+
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
   
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/uncategorized/hello-world">Hello World</a>
+    <h1 class="article-title" itemprop="name">
+      My first post
     </h1>
   
 
-    </header>
-  </div>
-</article>
-  
+      </header>
     
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/Others/first-post" class="archive-article-date">
-  <time datetime="2016-10-01T12:15:17.000Z" itemprop="datePublished">Oct 1</time>
-</a>
+    <div class="article-entry" itemprop="articleBody">
       
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/Others/first-post">My first post</a>
-    </h1>
-  
+        <h3 id="About-Me"><a href="#About-Me" class="headerlink" title="About Me"></a>About Me</h3><p>Thanks for your visiting my homepage. My name is Yifei Liu(aka. Jacky Liu), master candidate at <a href="http://www.hust.edu.cn/" target="_blank" rel="external">Huazhong University of Science and Technology</a>.</p>
+<p>我叫刘毅斐，华中科技大学硕士在读研究生。</p>
+<h3 id="Why-I-create-this-webpage"><a href="#Why-I-create-this-webpage" class="headerlink" title="Why I create this webpage"></a>Why I create this webpage</h3><p>I major in Computer Science and I love it ,When I am a undergraduate, I already create my blog page in cnblogs and CSDN. Howerver ,Writing blogs on my personal is my aspiration, Now I know it’s so easy. right?</p>
 
-    </header>
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://yifeiliu.me/Others/first-post" data-id="citu00ux10002fkvxhq7u2jgm" class="article-share-link">Share</a>
+      
+      
+    </footer>
   </div>
+  
+    
+<nav id="article-nav">
+  
+    <a href="/uncategorized/hello-world" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
+        
+          Hello World
+        
+      </div>
+    </a>
+  
+  
+</nav>
+
+  
 </article>
-  
-  
-    </div></section>
-  
 
 </section>
         
