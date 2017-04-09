@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yifeiliu.me/tags/index.html</loc>
+    
+    <lastmod>2017-04-09T09:17:56.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yifeiliu.me/2017/04/09/Dynamo-ISCA2016/</loc>
     
-    <lastmod>2017-04-09T08:23:29.000Z</lastmod>
+    <lastmod>2017-04-09T08:56:37.000Z</lastmod>
     
   </url>
   
@@ -16,23 +23,9 @@
   </url>
   
   <url>
-    <loc>http://yifeiliu.me/tags/index.html</loc>
-    
-    <lastmod>2017-03-20T08:15:47.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yifeiliu.me/categories/index.html</loc>
     
     <lastmod>2017-03-20T08:15:09.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yifeiliu.me/2017/04/09/hello-world/</loc>
-    
-    <lastmod>2016-09-24T16:04:49.000Z</lastmod>
     
   </url>
   
