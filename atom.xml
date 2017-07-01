@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yifeiliu.me/"/>
-  <updated>2017-04-09T08:56:37.000Z</updated>
+  <updated>2017-07-01T13:05:15.000Z</updated>
   <id>http://yifeiliu.me/</id>
   
   <author>
@@ -16,13 +16,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Dynamo:Facebook的数据中心范围电力管理系统_ISCA2016</title>
+    <title>Dynamo: Facebook&#39;s Data Center-Wide Power Management System. ISCA2016</title>
     <link href="http://yifeiliu.me/2017/04/09/Dynamo-ISCA2016/"/>
     <id>http://yifeiliu.me/2017/04/09/Dynamo-ISCA2016/</id>
     <published>2017-04-09T05:01:05.000Z</published>
-    <updated>2017-04-09T08:56:37.000Z</updated>
+    <updated>2017-07-01T13:05:15.000Z</updated>
     
-    <content type="html"><![CDATA[<p>&emsp;&emsp;这是ISCA2016的一篇文章《Dynamo: Facebook’s Data Center-Wide Power Management System》的分析，只保证自己能看懂。</p>
+    <content type="html"><![CDATA[<p>&emsp;&emsp;这是ISCA2016的一篇论文《Dynamo: Facebook’s Data Center-Wide Power Management System》的分析。</p>
 <h1 id="论文章节大纲和观点"><a href="#论文章节大纲和观点" class="headerlink" title="论文章节大纲和观点"></a>论文章节大纲和观点</h1><h2 id="摘要"><a href="#摘要" class="headerlink" title="摘要"></a>摘要</h2><p>&emsp;&emsp;摘要部分主要说明了电力资源的稀缺性和重要性。论文提出了一个数据中心范围的监控和控制方案——Dynamo，Dynamo可以监控电力资源的层级并且给出协调的控制决策，Dynamo是用在了过去三年中Facebook所有的数据中心中。论文三个贡献分别为：提供了资源变化的特性；提出了Dynamo的细节设计；这个技术被部署和评价在服务于十亿级用户的大规模数据中心中。<br><br>(注:power的翻译主要有：电力，功率或者电力功率，随上下文而变化)</p>
 <h2 id="引言-INTRODUCTION"><a href="#引言-INTRODUCTION" class="headerlink" title="引言(INTRODUCTION)"></a>引言(INTRODUCTION)</h2><p>&emsp;&emsp;在仓库级数据中心(Warehouse-scale data centers)中会有power delivery infrastructure为机器来提供电力，并且会使用power breakers来保护数据中心不被electrical surges损坏；但是tripping a power breaker会出现很严重的问题，使用过度供应(over-provisioning)的方案来解决这个问题可以提升安全性和可靠性，但是这种方法制造成本很高。使用Under-utilizing的数据中心则会导致数据中心效率降低。为了保证数据中心效率，有人提出了over-subscription的方法，但这会导致unpredictable power spikes。<br>&emsp;&emsp;为了解决这种问题保证电力安全和电力的利用。有很多方法被提出，如：power-capping，peak power management techniques。与这些方法不同，本文作者关注于监控所有电力的层次并制定出协调的控制决策，并处理大规模数据中心问题的key issues，提出了Dynamo。<br>&emsp;&emsp;Dynamo用来监控整个电力层级并且可以给出协调的控制决策使得可以安全有效地使用provisioned data center power。Dynamo的主要贡献如下：</p>
 <ol>
@@ -110,8 +110,8 @@
     
     <summary type="html">
     
-      &lt;p&gt;&amp;emsp;&amp;emsp;这是ISCA2016的一篇文章《Dynamo: Facebook’s Data Center-Wide Power Management System》的分析，只保证自己能看懂。&lt;/p&gt;
-&lt;h1 id=&quot;论文章节大纲和观点&quot;&gt;&lt;a href=&quot;#论文
+      &lt;p&gt;&amp;emsp;&amp;emsp;这是ISCA2016的一篇论文《Dynamo: Facebook’s Data Center-Wide Power Management System》的分析。&lt;/p&gt;
+&lt;h1 id=&quot;论文章节大纲和观点&quot;&gt;&lt;a href=&quot;#论文章节大纲和观点&quot; 
     
     </summary>
     
